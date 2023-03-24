@@ -11,9 +11,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/node": "^18.11.13",
-    "@types/react": "^18.0.26",
-    "swc-plugin-coverage-instrument": "0.0.14",
-    "typescript": "^4.9.4"
+    "@types/node": "^18.15.7",
+    "@types/react": "^18.0.29",
+    "swc-plugin-coverage-instrument": "0.0.15",
+    "typescript": "^5.0.2"
   }
 }
