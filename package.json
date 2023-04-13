@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/node": "^18.15.7",
     "@types/react": "^18.0.29",
-    "swc-plugin-coverage-instrument": "0.0.15",
+    "swc-plugin-coverage-instrument": "0.0.16",
     "typescript": "^5.0.2"
   }
 }
